@@ -7,7 +7,6 @@ gradio==3.28.1
 numpy==1.23.5
 Pillow==9.4.0
 realesrgan==0.3.0
-torch
 requests==2.27.1
 omegaconf==2.2.3
 pytorch_lightning==1.9.4
